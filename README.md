@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Unitree A1 Convex MPC based controller
 
 I modified [A1-QP-MPC-Controller](https://github.com/ShuoYangRobotics/A1-QP-MPC-Controller) repository repository to use the KDL library for obtaining kinematic and dynamic parameters.
