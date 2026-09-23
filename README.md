@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unitree A1 Convex MPC based controller
 
 I modified [A1-QP-MPC-Controller](https://github.com/ShuoYangRobotics/A1-QP-MPC-Controller) repository repository to use the KDL library for obtaining kinematic and dynamic parameters.
@@ -37,3 +38,7 @@ rostopic pub /a1_robot_cmd unitree_legged_msgs/RobotCmd "{vel_x: 0.0, vel_y: 0.0
 [MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://ieeexplore.ieee.org/abstract/document/8593885)
 
 [Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control](https://ieeexplore.ieee.org/abstract/document/8594448)
+=======
+# Quadruped-Non-Linear-Convex-MPC
+Implementation of Non linear Convex MPC
+>>>>>>> 1c24b611a03bbdeaa5d1b7ccf21c9b4aedf7a32e
